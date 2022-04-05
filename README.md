@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dexter_
+- 👀 I’m interested in creating APIs
+- 🌱 I’m currently mastering node.js
+- 💞️ I’m looking to collaborate on projects connected with minecraft or node.js
+- 📫 You can reach me on discord (Dexter_#0001)
